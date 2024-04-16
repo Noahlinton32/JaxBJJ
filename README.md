@@ -1,3 +1,5 @@
+"This branch represents a development environment and may not accurately reflect the current production state. Additionally, the content has been redacted to adhere to all relevant Non-Disclosure Agreement (NDA) obligations.
+
 JaxBJJ Application
 
     User Management: Input and store user information securely.
